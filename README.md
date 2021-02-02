@@ -21,7 +21,7 @@ $ php artisan key:generate
 $ php artisan migrate
 ```
 
-- Jalankan perinath
+- Jalankan perintah
 ```sh
 $ php artisan serve
 ```
